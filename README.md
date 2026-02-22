@@ -10,19 +10,20 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=700&lines=🎓+IT+Student+at+UTH+—+Class+of+2022,+Vietnam;🔭+Building+Delivery+Route+Analysis+System;📦+Working+with+Kafka,+Supabase,+FastAPI;🌱+Currently+learning+Docker,+Kafka,+Genetic+Algorithm;💬+Ask+me+about+Python,+FastAPI,+Data+Mining;⚡+Fun+fact%3A+I'm+cheerful+%26+always+eager+to+learn+new+things!" alt="About me typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=700&lines=🎓+IT+Student+at+UTH+—+Class+of+2022,+Vietnam;📊+Aspiring+Data+Engineer+%7C+Passionate+about+Data+Pipeline;🔭+Building+Delivery+Route+Analysis+System;⚙️+Working+with+Kafka,+Supabase,+MinIO,+Metabase;🧠+Applying+Apriori+%26+Genetic+Algorithm+on+real+data;🌱+Currently+learning+Data+Pipeline,+ETL,+Data+Warehouse;💬+Ask+me+about+Python,+FastAPI,+Kafka,+Data+Mining;⚡+Fun+fact%3A+I'm+cheerful+%26+always+eager+to+learn!" alt="About me typing" />
 
 <br/>
 
 - 🎓 Studying **Information Technology** at **University of Transport Ho Chi Minh City (UTH)** — Class of 2022
-- 🔭 Currently working on **Delivery Route Analysis** — route optimization with Kafka & OSRM
-- 📦 Building systems with **FastAPI, Supabase, Apache Kafka, RabbitMQ**
-- 🌱 Currently learning **Docker, Genetic Algorithm, Association Rule Mining**
-- 💬 Ask me about **Python, FastAPI, Data Mining, Kafka**
+- 📊 Specializing in **Data Engineering** — designing and building data pipelines for real-world systems
+- 🔭 Currently working on **Delivery Route Analysis** — collecting order data via **Apache Kafka**, storing raw data in **MinIO (Data Lake)**, analyzing with **Metabase**
+- ⚙️ Building **ETL Pipelines** with **FastAPI + Kafka + Supabase (PostgreSQL)** + **RabbitMQ**
+- 🧠 Applying **Association Rule Mining (Apriori)** to discover pickup/delivery location patterns from order data
+- 🚀 Using **Genetic Algorithm** for delivery route scheduling optimization with **OSRM**
+- 🌱 Currently learning **Data Warehouse, ETL Design, Data Lake Architecture, Docker**
+- 💬 Ask me about **Python, FastAPI, Kafka, Data Mining, Data Pipeline**
 - 📫 Reach me at **[GitHub](https://github.com/hohuynhnhu)**
 - ⚡ Fun fact: **I'm cheerful & always eager to learn new things!**
-
----
 
 ### 🛠️ Languages & Technologies
 
