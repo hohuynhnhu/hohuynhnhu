@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ho+Huynh+Nhu+👋;IT+Student+%40+UTH+%7C+Class+of+2022;Aspiring+Software+Engineer+🚀;Python+%26+FastAPI+Developer+🐍;AI+%26+Data+Engineering+Enthusiast+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ho+Huynh+Nhu+👋;IT+Student+%40+UTH+%7C+Class+of+2022;Aspiring+Data+Engineer+📊;Computer+Vision+%26+AI+Enthusiast+👁️;Data+Analysis+%26+Pipeline+Developer+🔧" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,9 +10,7 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=700&lines=🎓+IT+Student+at+UTH+—+Class+of+2022,+Vietnam;📊+Aspiring+Data+Engineer+%7C+Passionate+about+Data+Pipeline;🔭+Building+Delivery+Route+Analysis+System;⚙️+Working+with+Kafka,+Supabase,+MinIO,+Metabase;🧠+Applying+Apriori+%26+Genetic+Algorithm+on+real+data;🌱+Currently+learning+Data+Pipeline,+ETL,+Data+Warehouse;💬+Ask+me+about+Python,+FastAPI,+Kafka,+Data+Mining;⚡+Fun+fact%3A+I'm+cheerful+%26+always+eager+to+learn!" alt="About me typing" />
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=700&lines=🎓+IT+Student+at+UTH+—+Class+of+2022,+Vietnam;📊+Aspiring+Data+Engineer+%7C+Data+Pipeline+%26+ETL+Design;👁️+Studying+Computer+Vision+%7C+OpenCV+%26+Deep+Learning;📈+Data+Analysis+with+Metabase,+Power+BI,+Pandas;⚙️+Building+Pipelines%3A+Kafka+%2B+MinIO+%2B+Supabase;🧠+Applying+Apriori+%26+Genetic+Algorithm+on+real+data;🌱+Currently+learning+Data+Warehouse+%26+ETL+Architecture;⚡+Fun+fact%3A+I'm+cheerful+%26+always+eager+to+learn!" alt="About me typing" />
 
 - 🎓 Studying **Information Technology** at **University of Transport Ho Chi Minh City (UTH)** — Class of 2022
 - 📊 Specializing in **Data Engineering** — designing and building data pipelines for real-world systems
