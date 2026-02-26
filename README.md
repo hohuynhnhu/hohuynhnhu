@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ho+Huynh+Nhu+👋;IT+Student+%40+UTH+%7C+Class+of+2022;Aspiring+Data+Engineer+📊;Computer+Vision+%26+AI+Enthusiast+👁;Data+Analysis+%26+Pipeline+Developer+🔧" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ho+Huynh+Nhu;IT+Student+%40+UTH+%7C+Class+of+2022;Aspiring+Data+Engineer;Computer+Vision+%26+AI+Enthusiast+👁;Data+Analysis+%26+Pipeline+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,20 +8,20 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=700&lines=🎓+IT+Student+at+UTH+—+Class+of+2022,+Vietnam;📊+Aspiring+Data+Engineer+%7C+Data+Pipeline+%26+ETL+Design;👁️+Studying+Computer+Vision+%7C+OpenCV+%26+Deep+Learning;📈+Data+Analysis+with+Metabase,+Power+BI,+Pandas;⚙️+Building+Pipelines%3A+Kafka+%2B+MinIO;🧠+Applying+Apriori+%26+Genetic+Algorithm+on+real+data;🌱+Currently+learning+Data+Warehouse+%26+ETL+Architecture;⚡+Fun+fact%3A+I'm+cheerful+%26+always+eager+to+learn!" alt="About me typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&width=700&lines=🎓+IT+Student+at+UTH+—+Class+of+2022,+Vietnam;+Aspiring+Data+Engineer+%7C+Data+Pipeline+%26+ETL+Design;👁️+Studying+Computer+Vision+%7C+OpenCV+%26+Deep+Learning;📈+Data+Analysis+with+Metabase,+Power+BI,+Pandas;⚙️+Building+Pipelines%3A+Kafka+%2B+MinIO;+Applying+Apriori+%26+Genetic+Algorithm+on+real+data;🌱+Currently+learning+Data+Warehouse+%26+ETL+Architecture;⚡+Fun+fact%3A+I'm+cheerful+%26+always+eager+to+learn!" alt="About me typing" />
 
-- 🎓 Studying **Information Technology** at **University of Transport Ho Chi Minh City (UTH)** — Class of 2022
-- 📊 Specializing in **Data Engineering** — designing and building data pipelines for real-world systems
-- 🔭 Currently working on **Delivery Route Analysis** — collecting order data via **Apache Kafka**, storing raw data in **MinIO (Data Lake)**, analyzing with **Metabase**
-- ⚙️ Building **ETL Pipelines** with **FastAPI + Kafka + Supabase (PostgreSQL)** + **RabbitMQ**
-- 🧠 Applying **Association Rule Mining (Apriori)** to discover pickup/delivery location patterns from order data
-- 🚀 Using **Genetic Algorithm** for delivery route scheduling optimization with **OSRM**
-- 🌱 Currently learning **Data Warehouse, ETL Design, Data Lake Architecture, Docker**
-- 💬 Ask me about **Python, FastAPI, Kafka, Data Mining, Data Pipeline**
-- 📫 Reach me at **[GitHub](https://github.com/hohuynhnhu)**
-- ⚡ Fun fact: **I'm cheerful & always eager to learn new things!**
+-  Studying **Information Technology** at **University of Transport Ho Chi Minh City (UTH)** — Class of 2022
+-  Specializing in **Data Engineering** — designing and building data pipelines for real-world systems
+-  Currently working on **Delivery Route Analysis** — collecting order data via **Apache Kafka**, storing raw data in **MinIO (Data Lake)**, analyzing with **Metabase**
+-  Building **ETL Pipelines** with **FastAPI + Kafka + Supabase (PostgreSQL)** + **RabbitMQ**
+-  Applying **Association Rule Mining (Apriori)** to discover pickup/delivery location patterns from order data
+-  Using **Genetic Algorithm** for delivery route scheduling optimization with **OSRM**
+-  Currently learning **Data Warehouse, ETL Design, Data Lake Architecture, Docker**
+-  Ask me about **Python, FastAPI, Kafka, Data Mining, Data Pipeline**
+-  Reach me at **[GitHub](https://github.com/hohuynhnhu)**
+-  Fun fact: **I'm cheerful & always eager to learn new things!**
 
 ### 🛠️ Languages & Technologies
 
@@ -73,7 +73,7 @@
 
 ---
 
-### 🗂️ Project Management & Collaboration
+###  Project Management & Collaboration
 
 <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -83,14 +83,14 @@
 
 ---
 
-### 🌐 Socials
+###  Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huynhnhu.ho.961?mibextid=ZbWKwL)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hhnhu2003@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hohuynhnhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -107,7 +107,7 @@
 
 ---
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hohuynhnhu&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9" />
@@ -115,7 +115,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
